@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1753970802,
+        "task": "go to gym",
+        "category": "General",
+        "priority": "Medium",
+        "due_date": "2025-07-31",
+        "notes": "",
+        "completed": true,
+        "created_at": "2025-07-31 19:36:42"
+    },
+    {
+        "id": 1753970871,
+        "task": "clean wardrobe",
+        "category": "room cleaning",
+        "priority": "Low",
+        "due_date": "2025-07-31",
+        "notes": "",
+        "completed": false,
+        "created_at": "2025-07-31 19:37:51"
+    },
+    {
+        "id": 1753970974,
+        "task": "grocery shopping",
+        "category": "General",
+        "priority": "Low",
+        "due_date": "2025-07-31",
+        "notes": "",
+        "completed": false,
+        "created_at": "2025-07-31 19:39:34"
+    }
+]
